@@ -1,0 +1,32 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: gray;
+    margin: 8%;
+}
+
+.back-light {
+    background-color: rgb(150, 149, 149);
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-size: 23px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 5%;
+}
+
+header {
+    text-align: right;
+    padding-right: 5%;
+
+}
