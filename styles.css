@@ -4,7 +4,7 @@
 
 body {
     background-color: gray;
-    margin: 8%;
+    margin: 30px;
 }
 
 .back-light {
@@ -16,17 +16,17 @@ body {
 
 h1 {
     text-align: center;
+    margin: 0;
 }
 
 li {
     font-size: 23px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    margin: 5%;
+    padding: 10px;
+    margin: 10px;
 }
 
-header {
+footer {
     text-align: right;
-    padding-right: 5%;
-
+    padding: 10px;
+    display: block;
 }
